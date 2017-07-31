@@ -1,4 +1,9 @@
 # express-sanitized
+[![npm version](https://badge.fury.io/js/express-sanitized.svg)](https://badge.fury.io/js/express-sanitized)
+[![dependencies](https://david-dm.org/askhogan/express-sanitized.svg)](https://david-dm.org/askhogan/express-sanitized)
+[![devDependencies](https://david-dm.org/askhogan/express-sanitized/dev-status.svg)](https://david-dm.org/askhogan/express-sanitized?type=dev)
+[![peerDependencies](https://david-dm.org/askhogan/express-sanitized/peer-status.svg)](https://david-dm.org/askhogan/express-sanitized?type=peer)
+
 
 ## Installation
 
